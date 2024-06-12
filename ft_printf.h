@@ -6,7 +6,7 @@
 /*   By: nboer <nboer@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/25 19:01:40 by nboer             #+#    #+#             */
-/*   Updated: 2024/06/07 13:54:34 by nboer            ###   ########.fr       */
+/*   Updated: 2024/06/12 18:54:55 by nboer            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 # include <unistd.h>
 # include <stdlib.h>
 # include <stdarg.h>
-# include <stdio.h>
 
 int				ft_printf(const char *str, ...);
 int				ft_printstr(char *s);
